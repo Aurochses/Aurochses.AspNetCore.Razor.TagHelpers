@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 
-namespace Aurochses.Razor.TagHelpers
+namespace Aurochses.AspNetCore.Razor.TagHelpers
 {
     /// <summary>
     /// Description TagHelper.
