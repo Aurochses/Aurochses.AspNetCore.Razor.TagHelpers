@@ -1,11 +1,12 @@
-# Aurochses Razor TagHelpers
+# Aurochses AspNetCore Razor TagHelpers
 
-Aurochses Razor TagHelpers is a library for Razor TagHelpers.
+Aurochses AspNetCore Razor TagHelpers is a library for AspNetCore Razor TagHelpers.
 
 ## NuGet
 
-[![NuGet](https://img.shields.io/nuget/v/Aurochses.Razor.TagHelpers.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Razor.TagHelpers)
-[![NuGet](https://img.shields.io/nuget/dt/Aurochses.Razor.TagHelpers.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.Razor.TagHelpers)
+[![NuGet](https://img.shields.io/nuget/v/Aurochses.AspNetCore.Razor.TagHelpers.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Razor.TagHelpers)
+[![NuGet](https://img.shields.io/nuget/dt/Aurochses.AspNetCore.Razor.TagHelpers.svg?style=flat-square)](https://www.nuget.org/packages/Aurochses.AspNetCore.Razor.TagHelpers)
+[![NuGet Status](http://nugetstatus.com/Aurochses.AspNetCore.Razor.TagHelpers.png)](http://nugetstatus.com/packages/Aurochses.AspNetCore.Razor.TagHelpers)
 
 ## Builds
 

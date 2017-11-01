@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using Aurochses.Testing;
+using Aurochses.Xunit;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using Moq;
 using Xunit;
 
-namespace Aurochses.Razor.TagHelpers.Tests
+namespace Aurochses.AspNetCore.Razor.TagHelpers.Tests
 {
     public class DescriptionTagHelperTests
     {
